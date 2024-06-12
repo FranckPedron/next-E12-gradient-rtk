@@ -1,5 +1,5 @@
 'use client'
-import "./globals.css";
+import "./globals.scss";
 import StoreProvider from "@/app/StoreProvider";
 
 
